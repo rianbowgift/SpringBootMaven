@@ -10,9 +10,9 @@
     </parent>
     <groupId>com.example</groupId>
     <artifactId>aroundhub</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
+    <version>1.0.0</version>
     <name>AroundHub</name>
-    <description>AroundHub</description>
+    <description>스프링 부트 메이븐 테스트</description>
     <properties>
         <java.version>11</java.version>
     </properties>
