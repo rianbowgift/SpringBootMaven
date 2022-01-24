@@ -1,4 +1,4 @@
-package com.example.aroundhub.data.dao.impl;
+package com.example.aroundhub.data.dto.impl;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
