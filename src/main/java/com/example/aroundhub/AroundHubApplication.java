@@ -8,6 +8,7 @@ public class AroundHubApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(AroundHubApplication.class, args);
+        //
     }
 
 }
